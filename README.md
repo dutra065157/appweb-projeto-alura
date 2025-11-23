@@ -20,3 +20,10 @@ Projeto web desenvolvido para aprendizado e prática de desenvolvimento front-en
 - **GitHub Pages** - Hospedagem
 
 ## 📁 Estrutura do Projeto
+
+appweb-projeto-alura/
+├── 📄 index.html # Página principal
+├── 🎨 estilo.css # Estilos e design
+├── ⚡ script.js # Funcionalidades JavaScript
+├── 📊 data.json # Dados do projeto
+└── 📚 README.md # Esta documentação
