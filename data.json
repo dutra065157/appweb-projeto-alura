@@ -1,0 +1,365 @@
+[
+  {
+    "nome": "JavaScript",
+    "descricao": "O JS é a linguagem da web.",
+    "ano": 1995,
+    "link": "https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"
+  },
+  {
+    "nome": "Python",
+    "descricao": "O Python é a linguagem da ciência de dados e IA.",
+    "ano": 1991,
+    "link": "https://www.python.org/doc/"
+  },
+  {
+    "nome": "Java",
+    "descricao": "Java é uma linguagem de programação orientada a objetos, popular para aplicações corporativas.",
+    "ano": 1995,
+    "link": "https://docs.oracle.com/en/java/"
+  },
+  {
+    "nome": "C#",
+    "descricao": "C# (C Sharp) é uma linguagem moderna, orientada a objetos e desenvolvida pela Microsoft.",
+    "ano": 2000,
+    "link": "https://learn.microsoft.com/pt-br/dotnet/csharp/"
+  },
+  {
+    "nome": "C++",
+    "descricao": "C++ é uma linguagem de programação de propósito geral com recursos de programação de baixo e alto nível.",
+    "ano": 1985,
+    "link": "https://isocpp.org/get-started"
+  },
+  {
+    "nome": "PHP",
+    "descricao": "PHP é uma linguagem de script popular, especialmente adequada para o desenvolvimento web.",
+    "ano": 1995,
+    "link": "https://www.php.net/manual/pt_BR/"
+  },
+  {
+    "nome": "TypeScript",
+    "descricao": "TypeScript é um superconjunto de JavaScript que adiciona tipagem estática opcional à linguagem.",
+    "ano": 2012,
+    "link": "https://www.typescriptlang.org/docs/"
+  },
+  {
+    "nome": "Ruby",
+    "descricao": "Ruby é uma linguagem de programação dinâmica e de código aberto com foco na simplicidade e produtividade.",
+    "ano": 1995,
+    "link": "https://www.ruby-lang.org/pt/documentation/"
+  },
+  {
+    "nome": "Go",
+    "descricao": "Go (ou Golang) é uma linguagem de programação de código aberto criada pelo Google, focada em simplicidade e eficiência.",
+    "ano": 2009,
+    "link": "https://go.dev/doc/"
+  },
+  {
+    "nome": "React",
+    "descricao": "Uma biblioteca JavaScript para construir interfaces de usuário baseadas em componentes declarativos.",
+    "data_criacao": "2013",
+    "link": "https://reactjs.org/",
+    "tags": [
+      "frontend",
+      "biblioteca",
+      "UI",
+      "SPA"
+    ]
+  },
+  {
+    "nome": "Node.js",
+    "descricao": "Um ambiente de execução JavaScript assíncrono e orientado a eventos, usado para construir aplicações de rede escaláveis.",
+    "data_criacao": "2009",
+    "link": "https://nodejs.org/",
+    "tags": [
+      "runtime",
+      "backend",
+      "servidor",
+      "assíncrono"
+    ]
+  },
+  {
+    "nome": "MongoDB",
+    "descricao": "Um banco de dados NoSQL orientado a documentos que oferece alta disponibilidade e escalabilidade horizontal.",
+    "data_criacao": "2009",
+    "link": "https://www.mongodb.com/",
+    "tags": [
+      "banco de dados",
+      "NoSQL",
+      "documento",
+      "escalabilidade"
+    ]
+  },
+  {
+    "nome": "Docker",
+    "descricao": "Uma plataforma para desenvolver, enviar e executar aplicações dentro de contêineres leves e portáteis.",
+    "data_criacao": "2013",
+    "link": "https://www.docker.com/",
+    "tags": [
+      "containerização",
+      "DevOps",
+      "virtualização",
+      "ferramenta"
+    ]
+  },
+  {
+    "nome": "Kubernetes",
+    "descricao": "Um sistema de código aberto para automatizar a implantação, escalonamento e gerenciamento de aplicações em contêineres.",
+    "data_criacao": "2014",
+    "link": "https://kubernetes.io/",
+    "tags": [
+      "orquestração",
+      "containers",
+      "DevOps",
+      "nuvem"
+    ]
+  },
+  {
+    "nome": "PostgreSQL",
+    "descricao": "Um poderoso sistema de banco de dados relacional e objeto-relacional de código aberto com foco em extensibilidade e conformidade SQL.",
+    "data_criacao": "1996",
+    "link": "https://www.postgresql.org/",
+    "tags": [
+      "banco de dados",
+      "SQL",
+      "relacional",
+      "open source"
+    ]
+  },
+  {
+    "nome": "Rust",
+    "descricao": "Uma linguagem de programação focada em segurança, velocidade e concorrência, ideal para sistemas operacionais e jogos.",
+    "data_criacao": "2010",
+    "link": "https://www.rust-lang.org/",
+    "tags": [
+      "linguagem de programação",
+      "sistemas",
+      "performance",
+      "compilada"
+    ]
+  },
+  {
+    "nome": "Kotlin",
+    "descricao": "Uma linguagem de programação moderna e estaticamente tipada que roda na JVM, amplamente utilizada no desenvolvimento Android.",
+    "data_criacao": "2011",
+    "link": "https://kotlinlang.org/",
+    "tags": [
+      "linguagem de programação",
+      "JVM",
+      "mobile",
+      "moderna"
+    ]
+  },
+  {
+    "nome": "AWS",
+    "descricao": "Amazon Web Services, a plataforma de nuvem mais abrangente e amplamente adotada do mundo, oferecendo mais de 200 serviços completos.",
+    "data_criacao": "2006",
+    "link": "https://aws.amazon.com/",
+    "tags": [
+      "nuvem",
+      "IaaS",
+      "PaaS",
+      "computação"
+    ]
+  },
+  {
+    "nome": "Git",
+    "descricao": "Um sistema de controle de versão distribuído, gratuito e de código aberto, projetado para lidar com tudo, desde projetos pequenos a muito grandes com velocidade e eficiência.",
+    "data_criacao": "2005",
+    "link": "https://git-scm.com/",
+    "tags": [
+      "controle de versão",
+      "SCM",
+      "ferramenta",
+      "desenvolvimento"
+    ]
+  },
+  {
+    "nome": "Vue.js",
+    "descricao": "Um framework progressivo para a construção de interfaces de usuário, conhecido por sua facilidade de aprendizado e integração.",
+    "data_criacao": "2014",
+    "link": "https://vuejs.org/",
+    "tags": [
+      "frontend",
+      "framework",
+      "reatividade",
+      "UI"
+    ]
+  },
+  {
+    "nome": "Angular",
+    "descricao": "Um framework front-end abrangente mantido pelo Google para construir grandes aplicações de página única (SPAs).",
+    "data_criacao": "2010",
+    "link": "https://angular.io/",
+    "tags": [
+      "frontend",
+      "framework",
+      "Google",
+      "SPA"
+    ]
+  },
+  {
+    "nome": "Kafka",
+    "descricao": "Um barramento de eventos distribuído de código aberto, usado para construir pipelines de dados em tempo real e aplicativos de streaming.",
+    "data_criacao": "2011",
+    "link": "https://kafka.apache.org/",
+    "tags": [
+      "mensageria",
+      "streaming",
+      "Big Data",
+      "distribuído"
+    ]
+  },
+  {
+    "nome": "Terraform",
+    "descricao": "Uma ferramenta de Infraestrutura como Código (IaC) que permite definir e provisionar a infraestrutura de nuvem usando arquivos de configuração declarativos.",
+    "data_criacao": "2014",
+    "link": "https://www.terraform.io/",
+    "tags": [
+      "IaC",
+      "DevOps",
+      "nuvem",
+      "provisionamento"
+    ]
+  },
+  {
+    "nome": "Redis",
+    "descricao": "Um armazenamento de estrutura de dados em memória, de código aberto, usado como cache, banco de dados e agente de mensagens.",
+    "data_criacao": "2009",
+    "link": "https://redis.io/",
+    "tags": [
+      "banco de dados",
+      "cache",
+      "chave-valor",
+      "em memória"
+    ]
+  },
+  {
+    "nome": "Flutter",
+    "descricao": "Um kit de ferramentas de UI do Google para a construção nativa e rápida de belas aplicações compiladas para dispositivos móveis, web e desktop a partir de uma única base de código.",
+    "data_criacao": "2017",
+    "link": "https://flutter.dev/",
+    "tags": [
+      "mobile",
+      "framework",
+      "cross-platform",
+      "UI"
+    ]
+  },
+  {
+    "nome": "Scala",
+    "descricao": "Uma linguagem que combina recursos de programação orientada a objetos e funcional, compatível com a plataforma JVM e popular em Big Data.",
+    "data_criacao": "2003",
+    "link": "https://www.scala-lang.org/",
+    "tags": [
+      "linguagem de programação",
+      "JVM",
+      "funcional",
+      "Big Data"
+    ]
+  },
+  {
+    "nome": "Nginx",
+    "descricao": "Um servidor web de alto desempenho e proxy reverso, conhecido por sua estabilidade, conjunto de recursos robusto e baixo consumo de recursos.",
+    "data_criacao": "2004",
+    "link": "https://www.nginx.com/",
+    "tags": [
+      "servidor web",
+      "proxy reverso",
+      "rede",
+      "infraestrutura"
+    ]
+  },
+  {
+    "nome": "Scrum",
+    "descricao": "Um framework ágil para gerenciar projetos complexos, focado na entrega incremental e adaptativa do produto.",
+    "data_criacao": "1990",
+    "link": "https://www.scrum.org/",
+    "tags": [
+      "metodologia",
+      "ágil",
+      "gestão de projetos",
+      "framework"
+    ]
+  },
+  {
+    "nome": "Lambda",
+    "descricao": "O serviço de computação serverless da AWS que permite executar código sem provisionar ou gerenciar servidores (FaaS - Function as a Service).",
+    "data_criacao": "2014",
+    "link": "https://aws.amazon.com/lambda/",
+    "tags": [
+      "serverless",
+      "FaaS",
+      "computação em nuvem",
+      "AWS"
+    ]
+  },
+  {
+    "nome": "Prometheus",
+    "descricao": "Um sistema de monitoramento e alerta de código aberto, projetado especificamente para ambientes dinâmicos de microsserviços.",
+    "data_criacao": "2012",
+    "link": "https://prometheus.io/",
+    "tags": [
+      "monitoramento",
+      "observabilidade",
+      "banco de dados",
+      "DevOps"
+    ]
+  },
+  {
+    "nome": "Webpack",
+    "descricao": "Um empacotador de módulos estáticos para aplicações front-end modernas, usado para gerenciar e otimizar ativos.",
+    "data_criacao": "2012",
+    "link": "https://webpack.js.org/",
+    "tags": [
+      "tooling",
+      "bundler",
+      "frontend",
+      "otimização"
+    ]
+  },
+  {
+    "nome": "Jest",
+    "descricao": "Um framework de testes popular, simples e completo, geralmente usado em conjunto com React para testar componentes.",
+    "data_criacao": "2014",
+    "link": "https://jestjs.io/",
+    "tags": [
+      "testing",
+      "framework",
+      "frontend",
+      "qualidade de código"
+    ]
+  },
+  {
+    "nome": "Apache Spark",
+    "descricao": "Um motor unificado de análise de código aberto para processamento de dados em larga escala e computação clusterizada.",
+    "data_criacao": "2014",
+    "link": "https://spark.apache.org/",
+    "tags": [
+      "Big Data",
+      "processamento distribuído",
+      "analytics",
+      "machine learning"
+    ]
+  },
+  {
+    "nome": "Spring Boot",
+    "descricao": "Um framework para simplificar a configuração e o desenvolvimento de aplicações stand-alone e baseadas em microsserviços.",
+    "data_criacao": "2014",
+    "link": "https://spring.io/projects/spring-boot",
+    "tags": [
+      "framework",
+      "backend",
+      "microsserviços",
+      "JVM"
+    ]
+  },
+  {
+    "nome": "Bora aprender ",
+    "descricao":"obrigado deus",
+    "data_criacao": "2025",
+    "link": "https://power-bi-portfolio.web.app/",
+    "tags": ["sim","nodejs"
+  ]
+
+  }
+]
