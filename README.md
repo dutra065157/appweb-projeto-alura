@@ -2,4 +2,4 @@
 
 🔗 **Site:** https://dutra065157.github.io/appweb-projeto-alura/
 
-Projeto desenvolvido para aprendizado de desenvolvimento web.
+Projeto desenvolvido para aprendizado de desenvolvimento web. 
