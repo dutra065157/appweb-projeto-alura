@@ -1,22 +1,22 @@
-# App Web Projeto Alura
+# 🌐 App Web Projeto Alura
 
-**🌐 Site:** https://dutra065157.github.io/appweb-projeto-alura/
+**Site Oficial:** 🔗 [https://dutra065157.github.io/appweb-projeto-alura/](https://dutra065157.github.io/appweb-projeto-alura/)
 
-Projeto desenvolvido para aprendizado de desenvolvimento web.
+Projeto web desenvolvido para aprendizado e prática de desenvolvimento front-end.
 
-## 🚀 Funcionalidades
+## ✨ Funcionalidades
 
-- Design responsivo
-- Interface moderna  
-- Navegação intuitiva
-- Busca integrada
-- Seção de contato
+- ✅ Design totalmente responsivo
+- ✅ Interface moderna e limpa
+- ✅ Sistema de busca integrado
+- ✅ Navegação intuitiva
+- ✅ Seção de contato
 
 ## 🛠️ Tecnologias Utilizadas
 
-- HTML5
-- CSS3
-- JavaScript
-- GitHub Pages
+- **HTML5** - Estrutura semântica
+- **CSS3** - Estilos e responsividade
+- **JavaScript** - Interatividade
+- **GitHub Pages** - Hospedagem
 
 ## 📁 Estrutura do Projeto
